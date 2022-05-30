@@ -7,7 +7,7 @@ To run this programe, download a compiler that supports c programming language
 Eg: CodeBlocks
     Microsoft Visual Studio
     or any online c language compiler 
-Download the MiniProject.c file and extract. 
+Download the Main Programe.c file and extract. 
 
 Created for educational purpose  
 _For More Information Contact jialecjl2016@outlook.com_ 
