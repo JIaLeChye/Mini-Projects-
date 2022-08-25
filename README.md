@@ -10,4 +10,4 @@
 Download the Main Programe.c file and extract.<br> 
 
 <br> Created for educational purpose  
-<br> _For More Information Contact jialecjl2016@outlook.com_ 
+<br> _For More Information Contact <a href="mailto:jialecjl2016@outlook.com">Email</a>  
